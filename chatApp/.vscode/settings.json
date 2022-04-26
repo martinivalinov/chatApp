@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/martin/chatApp/json-simple-1.1.1.jar",
+        "/home/martin/chatApp/javax.json-1.0-sources.jar",
+        "/home/martin/chatApp/javax.json-1.0.jar"
+    ]
+}
